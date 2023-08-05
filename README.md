@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RandovtsovaRN
-- 👀 I’m interested in computational linguistics, corpus research
+- 👀 I’m interested in computational linguistics and corpus research
 - 🌱 I’m currently learning python, linguistics and Japanese
 - 💞️ I’m looking to collaborate on corpus research projects
 - 📫 How to reach me: randovtsovarn＠gmail.com
